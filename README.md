@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**AlanDionatan/AlanDionatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Alan Dionatan ✋
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo JavaScript ...
+- 🤔 Procuro ajuda para estudos...
+- 😄 Pronomes: Ele/Dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: in-line_block"><br>
+  <img height:"180em" src="https://github-readme-stats.vercel.app/api?username=AlanDionatan&show_icons=true&theme=tokyonight"
+</div>
+
+## Tecnologias que estou aprendendo
+
+<div style= "display: inline_block"></br>
+    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+      <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img alt="Java Script" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+      <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><br>
+
+      Apaixonado por Tecnologia e Games!
+
+
+    
+
+   
+
+</div>
+
